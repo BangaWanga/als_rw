@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Ableton MajorVersion="5" MinorVersion="10.0_370" SchemaChangeCount="9" Creator="Ableton Live 10.0.5" Revision="8aeadb15977dcab3df81ad2fc8fd3dd3e861b9e6">
+<?xml version='1.0' encoding='utf-8'?>
+<Ableton Creator="Ableton Live 10.0.5" MajorVersion="5" MinorVersion="10.0_370" Revision="8aeadb15977dcab3df81ad2fc8fd3dd3e861b9e6" SchemaChangeCount="9">
 	<LiveSet>
 		<NextPointeeId Value="17911" />
 		<OverwriteProtectionNumber Value="2560" />
@@ -2847,10 +2847,10 @@
 												<HasRelativePath Value="true" />
 												<RelativePathType Value="5" />
 												<RelativePath>
-													<RelativePathElement Id="16" Dir="Devices" />
-													<RelativePathElement Id="17" Dir="Audio Effects" />
-													<RelativePathElement Id="18" Dir="Reverb" />
-													<RelativePathElement Id="19" Dir="Room" />
+													<RelativePathElement Dir="Devices" Id="16" />
+													<RelativePathElement Dir="Audio Effects" Id="17" />
+													<RelativePathElement Dir="Reverb" Id="18" />
+													<RelativePathElement Dir="Room" Id="19" />
 												</RelativePath>
 												<Name Value="Ambience Medium.adv" />
 												<Type Value="1" />
@@ -2889,10 +2889,10 @@
 													<HasRelativePath Value="true" />
 													<RelativePathType Value="5" />
 													<RelativePath>
-														<RelativePathElement Id="16" Dir="Devices" />
-														<RelativePathElement Id="17" Dir="Audio Effects" />
-														<RelativePathElement Id="18" Dir="Reverb" />
-														<RelativePathElement Id="19" Dir="Room" />
+														<RelativePathElement Dir="Devices" Id="16" />
+														<RelativePathElement Dir="Audio Effects" Id="17" />
+														<RelativePathElement Dir="Reverb" Id="18" />
+														<RelativePathElement Dir="Room" Id="19" />
 													</RelativePath>
 													<Name Value="Ambience Medium.adv" />
 													<Type Value="1" />
@@ -2923,10 +2923,10 @@
 														<HasRelativePath Value="true" />
 														<RelativePathType Value="5" />
 														<RelativePath>
-															<RelativePathElement Id="16" Dir="Devices" />
-															<RelativePathElement Id="17" Dir="Audio Effects" />
-															<RelativePathElement Id="18" Dir="Reverb" />
-															<RelativePathElement Id="19" Dir="Room" />
+															<RelativePathElement Dir="Devices" Id="16" />
+															<RelativePathElement Dir="Audio Effects" Id="17" />
+															<RelativePathElement Dir="Reverb" Id="18" />
+															<RelativePathElement Dir="Room" Id="19" />
 														</RelativePath>
 														<Name Value="Ambience Medium.adv" />
 														<Type Value="1" />
@@ -3638,9 +3638,9 @@
 												<HasRelativePath Value="true" />
 												<RelativePathType Value="5" />
 												<RelativePath>
-													<RelativePathElement Id="12" Dir="Devices" />
-													<RelativePathElement Id="13" Dir="Audio Effects" />
-													<RelativePathElement Id="14" Dir="Simple Delay" />
+													<RelativePathElement Dir="Devices" Id="12" />
+													<RelativePathElement Dir="Audio Effects" Id="13" />
+													<RelativePathElement Dir="Simple Delay" Id="14" />
 												</RelativePath>
 												<Name Value="Dotted Eighth Note.adv" />
 												<Type Value="1" />
@@ -3679,9 +3679,9 @@
 													<HasRelativePath Value="true" />
 													<RelativePathType Value="5" />
 													<RelativePath>
-														<RelativePathElement Id="12" Dir="Devices" />
-														<RelativePathElement Id="13" Dir="Audio Effects" />
-														<RelativePathElement Id="14" Dir="Simple Delay" />
+														<RelativePathElement Dir="Devices" Id="12" />
+														<RelativePathElement Dir="Audio Effects" Id="13" />
+														<RelativePathElement Dir="Simple Delay" Id="14" />
 													</RelativePath>
 													<Name Value="Dotted Eighth Note.adv" />
 													<Type Value="1" />
@@ -3712,9 +3712,9 @@
 														<HasRelativePath Value="true" />
 														<RelativePathType Value="5" />
 														<RelativePath>
-															<RelativePathElement Id="12" Dir="Devices" />
-															<RelativePathElement Id="13" Dir="Audio Effects" />
-															<RelativePathElement Id="14" Dir="Simple Delay" />
+															<RelativePathElement Dir="Devices" Id="12" />
+															<RelativePathElement Dir="Audio Effects" Id="13" />
+															<RelativePathElement Dir="Simple Delay" Id="14" />
 														</RelativePath>
 														<Name Value="Dotted Eighth Note.adv" />
 														<Type Value="1" />
@@ -4558,7 +4558,7 @@
 		<MidiFoldIn Value="false" />
 		<MidiPrelisten Value="false" />
 		<UseWarperLegacyHiQMode Value="false" />
-		<VideoWindowRect Top="-2147483648" Left="-2147483648" Bottom="-2147483648" Right="-2147483648" />
+		<VideoWindowRect Bottom="-2147483648" Left="-2147483648" Right="-2147483648" Top="-2147483648" />
 		<ShowVideoWindow Value="true" />
 		<TrackHeaderWidth Value="93" />
 		<ViewStateArrangerHasDetail Value="true" />
